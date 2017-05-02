@@ -1,0 +1,9 @@
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\TwitchQuotes.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\HtmlAgilityPack.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\HtmlAgilityPack.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\HtmlAgilityPack.xml
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\obj\Debug\TwitchQuotes.csprojResolveAssemblyReference.cache
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\obj\Debug\TwitchQuotes.pdb
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\TwitchQuotes.dll.config
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\bin\Debug\TwitchQuotes.dll
+c:\users\gkam4141\documents\visual studio 2013\Projects\TwitchQuotes\TwitchQuotes\obj\Debug\TwitchQuotes.dll
